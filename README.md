@@ -1,6 +1,6 @@
 # Sugar Analysis
 
-Sugar Analysis is an Android app that allows health-conscious users to track their blood sugar and BMI weekly. The goal was to not only create a fully-functioning app, but also practice Scrum/Agile concepts during development.
+Sugar Analysis is an Android app that allows health-conscious and diabetic-prone users to track their blood sugar and BMI weekly. The goal was to not only create a fully-functioning app, but also practice Scrum/Agile concepts during development.
 
 #### Technologies Used
 * Android Studio
